@@ -19,6 +19,11 @@ public class MainManager : MonoBehaviour
     private bool m_GameOver = false;
 
     
+    [System.Serializable]
+    public class { 
+
+    }
+
     // Start is called before the first frame update
     void Start()
     {
